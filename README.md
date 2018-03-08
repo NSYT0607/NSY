@@ -212,6 +212,8 @@ collate utf8_general_ci 없을시 아이폰 유저가 이모티콘 저장 시도
     sudo systemctl restart uwsgi
     sudo systemctl restart nginx
 
+## 20.1 
+    sudo systemctl daemon-reload
 
 ## 21. 참고 문서
 
